@@ -1,2 +1,2 @@
 # early_warning
-Contains images of early warning files
+Contains revised images of early warning paper
